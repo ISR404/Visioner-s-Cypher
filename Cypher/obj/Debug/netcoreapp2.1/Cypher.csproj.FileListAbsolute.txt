@@ -1,0 +1,10 @@
+C:\Users\Illidan StormRage\source\repos\Cypher\Cypher\bin\Debug\netcoreapp2.1\Cypher.deps.json
+C:\Users\Illidan StormRage\source\repos\Cypher\Cypher\bin\Debug\netcoreapp2.1\Cypher.runtimeconfig.json
+C:\Users\Illidan StormRage\source\repos\Cypher\Cypher\bin\Debug\netcoreapp2.1\Cypher.runtimeconfig.dev.json
+C:\Users\Illidan StormRage\source\repos\Cypher\Cypher\bin\Debug\netcoreapp2.1\Cypher.dll
+C:\Users\Illidan StormRage\source\repos\Cypher\Cypher\bin\Debug\netcoreapp2.1\Cypher.pdb
+C:\Users\Illidan StormRage\source\repos\Cypher\Cypher\obj\Debug\netcoreapp2.1\Cypher.csprojAssemblyReference.cache
+C:\Users\Illidan StormRage\source\repos\Cypher\Cypher\obj\Debug\netcoreapp2.1\Cypher.AssemblyInfoInputs.cache
+C:\Users\Illidan StormRage\source\repos\Cypher\Cypher\obj\Debug\netcoreapp2.1\Cypher.AssemblyInfo.cs
+C:\Users\Illidan StormRage\source\repos\Cypher\Cypher\obj\Debug\netcoreapp2.1\Cypher.dll
+C:\Users\Illidan StormRage\source\repos\Cypher\Cypher\obj\Debug\netcoreapp2.1\Cypher.pdb
